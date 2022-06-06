@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Dormir",
+    "estado": "terminada"
+  },
+
+  {
+    "titulo": "comer",
+    "estado": "terminada"
+  },
+
+  { 
+    "titulo": "trabajar",
+    "estado": "en progreso" 
+  },
+
+  { 
+    "titulo": "hacer tarea",
+    "estado": "pendiente" 
+  },
+
+  { 
+    "titulo": "jugar play",
+    "estado": "pendiente" 
+  },
+
+  { 
+      
+   "titulo": "escuchar musica", 
+   "estado": "en progreso"
+
+  },
+
+  {
+    "titulo": "prueba", 
+    "estado": "pendiente" 
+  }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "titulo": "repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "repasar JS",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "repasar JS",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "jugar",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "estudiar",
+  "estado": "pendiente"
+ }
+]
